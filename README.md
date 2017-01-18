@@ -2,6 +2,8 @@
 
 This is a list of most popular R packages for various task that could be done in Data Science
 
+<img width="1093" alt="screen shot 2016-07-02 at 2 12 14 pm" src="https://raw.githubusercontent.com/Kamparia/awesome_r_packages/master/img/data%20science%20with%20r.jpg">
+
 ### Data Manipulation
 1. [dplyr](https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html) - This package has everything (almost) to accelerate your data manipulation efforts. It is known best for data exploration and transformation. It’s chaining syntax makes it highly adaptive to use. It includes 5 major data manipulation commands : Filter, Select, Arrange, Mutate, Summarise.
 2. [reshape2](http://seananderson.ca/2013/10/19/reshape.html) - We all know the data come in many forms. As the name suggests, this package is useful in reshaping data. Usually, the process of reshaping data in R is tedious and worrisome. The reshape package overcome these problems.
