@@ -22,7 +22,14 @@ This is a list of most popular R packages for various task that could be done in
 13. [RColorBrewer](http://moderndata.plot.ly/create-colorful-graphs-in-r-with-rcolorbrewer-and-plotly/) - RColorBrewer is an R package that allows users to create colourful graphs with pre-made color palettes that visualize data in a clear and distinguishable manner. There are 3 categories of palettes: qualitative, diverging, and sequential.
 14. [rgl](http://rgl.neoscientists.org/about.shtml) - The rgl package is a visualization device system for R, using OpenGL as the rendering backend. An rgl device at its core is a real-time 3D engine written in C++. It provides an interactive viewpoint navigation facility (mouse + wheel support) and an R programming interface.
 
+### Working with web data
+1. [jsonlite](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-aaquickstart.html) - A fast JSON parser and generator optimized for statistical data and the web. This is ideal for interacting with web APIs, or to build pipelines where data structures seamlessly flow in and out of R using JSON.
+2. [httr](https://cran.r-project.org/web/packages/jsonlite/vignettes/json-aaquickstart.html) - A set of useful tools for working with HTTP connections (GET, PATCH, POST, HEAD, PUT, and DELETE). Configuration functions make it easy to control additional request components (authenticate(), add_headers() and so on).
+3. [curl](https://github.com/jeroenooms/curl) - Modern and Flexible Web Client for R. The curl() and curl_download() functions provide highly configurable drop-in replacements for base url() and download.file() with better performance, support for encryption (https, ftps), gzip compression, authentication, and other 'libcurl' goodies.
+4. [xml2](https://cran.rstudio.com/web/packages/xml2/index.html) - The xml2 package is a binding to libxml2, making it easy to work with HTML and XML from R. The API is somewhat inspired by jQuery.
+
 ### Mapping / Spatial Analysis
 1. [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library.
 2. [leaflet](https://rstudio.github.io/leaflet/) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. Leaflet is designed with simplicity, performance and usability in mind.
 3. [ggmap](https://github.com/dkahle/ggmap) - A collection of functions to visualize spatial data and models on top of static maps from various online sources (e.g Google Maps and Stamen Maps). It includes tools common to those tasks, including functions for geolocation and routing.
+4. [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-nutshell.html) - tmap is an actively maintained open-source R-library for drawing thematic maps. The API is based on A Layered Grammar of Graphics by Hadley Wickham and resembles the syntax of ggplot2, a popular R-library for drawing charts.
