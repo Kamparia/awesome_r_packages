@@ -22,3 +22,7 @@ This is a list of most popular R packages for various task that could be done in
 13. [RColorBrewer](http://moderndata.plot.ly/create-colorful-graphs-in-r-with-rcolorbrewer-and-plotly/) - RColorBrewer is an R package that allows users to create colourful graphs with pre-made color palettes that visualize data in a clear and distinguishable manner. There are 3 categories of palettes: qualitative, diverging, and sequential.
 14. [rgl](http://rgl.neoscientists.org/about.shtml) - The rgl package is a visualization device system for R, using OpenGL as the rendering backend. An rgl device at its core is a real-time 3D engine written in C++. It provides an interactive viewpoint navigation facility (mouse + wheel support) and an R programming interface.
 
+### Mapping / Spatial Analysis
+1. [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library.
+2. [leaflet](https://rstudio.github.io/leaflet/) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. Leaflet is designed with simplicity, performance and usability in mind.
+3. [ggmap](https://github.com/dkahle/ggmap) - A collection of functions to visualize spatial data and models on top of static maps from various online sources (e.g Google Maps and Stamen Maps). It includes tools common to those tasks, including functions for geolocation and routing.
