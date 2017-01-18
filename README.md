@@ -16,4 +16,7 @@ This is a list of most popular R packages for various task that could be done in
 9. [plotly](https://plot.ly/r/) - Plotly's R graphing library makes interactive, publication-quality graphs online. Examples of how to make line plots, scatter plots, area charts, bar charts, error bars, box plots, histograms, heatmaps, subplots, multiple-axes, polar charts and bubble charts.
 10. [googleviz](https://cran.r-project.org/web/packages/googleVis/index.html) - GoogleVis provides an interface between R and the Google Charts Tools, allowing you to create interactive web charts from R without uploading your data to Google.
 11. [googleviz](https://cran.r-project.org/web/packages/googleVis/index.html) - GoogleVis provides an interface between R and the Google Charts Tools, allowing you to create interactive web charts from R without uploading your data to Google.
-12. [shiny](https://shiny.rstudio.com/) - Shiny is an R package that provides an elegant and powerful web framework for building web applications using R. Shiny helps turn your analyses into interactive web applications without requiring HTML, CSS, or JavaScript knowledge.
+12. [ggviz](http://ggvis.rstudio.com/) - ggvis is a data visualization package for R which lets you declaratively describe data graphics with a syntax similar in spirit to ggplot2 and create rich interactive graphics that you can play with locally in Rstudio or in your browser.
+13. [shiny](https://shiny.rstudio.com/) - Shiny is an R package that provides an elegant and powerful web framework for building web applications using R. Shiny helps turn your analyses into interactive web applications without requiring HTML, CSS, or JavaScript knowledge.
+
+
