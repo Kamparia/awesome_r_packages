@@ -28,9 +28,13 @@ This is a list of most popular R packages for various task that could be done in
 3. [curl](https://github.com/jeroenooms/curl) - Modern and Flexible Web Client for R. The curl() and curl_download() functions provide highly configurable drop-in replacements for base url() and download.file() with better performance, support for encryption (https, ftps), gzip compression, authentication, and other 'libcurl' goodies.
 4. [xml2](https://cran.rstudio.com/web/packages/xml2/index.html) - The xml2 package is a binding to libxml2, making it easy to work with HTML and XML from R. The API is somewhat inspired by jQuery.
 
-### Mapping / Spatial Analysis
+### Mapping/Spatial Analysis
 1. [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library.
 2. [leaflet](https://rstudio.github.io/leaflet/) - Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps. Leaflet is designed with simplicity, performance and usability in mind.
 3. [ggmap](https://github.com/dkahle/ggmap) - A collection of functions to visualize spatial data and models on top of static maps from various online sources (e.g Google Maps and Stamen Maps). It includes tools common to those tasks, including functions for geolocation and routing.
 4. [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-nutshell.html) - tmap is an actively maintained open-source R-library for drawing thematic maps. The API is based on A Layered Grammar of Graphics by Hadley Wickham and resembles the syntax of ggplot2, a popular R-library for drawing charts.
 5. [maptools](http://rstudio-pubs-static.s3.amazonaws.com/13730_f008288ab83c43ea978f222d0dfe8299.html) - Maptools has a number of functions to explore the spatial relations in data.
+
+### Reporting & Presentation
+1. [slidify](http://slidify.org/) - Slidify helps you create and publish beautiful reproducible HTML5 presentations from RMarkdown.
+2. [knitr](https://github.com/yihui/knitr) - The R package knitr is a general-purpose literate programming engine, with lightweight API's designed to give users full control of the output without heavy coding work.
