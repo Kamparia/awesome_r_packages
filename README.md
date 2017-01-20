@@ -17,7 +17,7 @@ This is a list of most popular R packages for various task that could be done in
 1. [ggplot2](http://ggplot2.org/) - Powerful, flexible and well-thought-out dataviz package following 'grammar of graphics' syntax to create static graphics, but be prepared for a steep learning curve.
 2. [plotly](https://plot.ly/r/) - Plotly's R graphing library makes interactive, publication-quality graphs online. Examples of how to make line plots, scatter plots, area charts, bar charts, error bars, box plots, histograms, heatmaps, subplots, multiple-axes, polar charts and bubble charts.
 3. [googleviz](https://cran.r-project.org/web/packages/googleVis/index.html) - GoogleVis provides an interface between R and the Google Charts Tools, allowing you to create interactive web charts from R without uploading your data to Google.
-4. [ggviz](http://ggvis.rstudio.com/) - ggvis is a data visualization package for R which lets you declaratively describe data graphics with a syntax similar in spirit to ggplot2 and create rich interactive graphics that you can play with locally in Rstudio or in your browser.
+4. [ggvis](http://ggvis.rstudio.com/) - ggvis is a data visualization package for R which lets you declaratively describe data graphics with a syntax similar in spirit to ggplot2 and create rich interactive graphics that you can play with locally in Rstudio or in your browser.
 5. [shiny](https://shiny.rstudio.com/) - Shiny is an R package that provides an elegant and powerful web framework for building web applications using R. Shiny helps turn your analyses into interactive web applications without requiring HTML, CSS, or JavaScript knowledge.
 6. [RColorBrewer](http://moderndata.plot.ly/create-colorful-graphs-in-r-with-rcolorbrewer-and-plotly/) - RColorBrewer is an R package that allows users to create colourful graphs with pre-made color palettes that visualize data in a clear and distinguishable manner. There are 3 categories of palettes: qualitative, diverging, and sequential.
 7. [rgl](http://rgl.neoscientists.org/about.shtml) - The rgl package is a visualization device system for R, using OpenGL as the rendering backend. An rgl device at its core is a real-time 3D engine written in C++. It provides an interactive viewpoint navigation facility (mouse + wheel support) and an R programming interface.
@@ -38,3 +38,7 @@ This is a list of most popular R packages for various task that could be done in
 ### Reporting & Presentation
 1. [slidify](http://slidify.org/) - Slidify helps you create and publish beautiful reproducible HTML5 presentations from RMarkdown.
 2. [knitr](https://github.com/yihui/knitr) - The R package knitr is a general-purpose literate programming engine, with lightweight API's designed to give users full control of the output without heavy coding work.
+
+### Database Connection
+1. [MonetDBLite](https://www.monetdb.org/) - An in-process version of MonetDB, a relational database focused on analytical tasks. Similar to SQLite, the database runs entirely inside the R shell, with the main difference that queries complete much faster thanks to MonetDB's columnar architecture.
+2. [RSQLite](https://github.com/rstats-db/RSQLite) - Embeds the 'SQLite' database engine in R and provides an interface compliant with the 'DBI' package. The source for the 'SQLite' engine (version 3.8.8.2) is included.
