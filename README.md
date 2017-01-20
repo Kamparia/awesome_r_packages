@@ -44,3 +44,4 @@ This is a list of most popular R packages for various task that could be done in
 2. [RSQLite](https://github.com/rstats-db/RSQLite) - Embeds the 'SQLite' database engine in R and provides an interface compliant with the 'DBI' package. The source for the 'SQLite' engine (version 3.8.8.2) is included.
 3. [mongolite](https://github.com/jeroenooms/mongolite) - High-performance MongoDB client based on 'libmongoc' and 'jsonlite'. Includes support for aggregation, indexing, map-reduce, streaming, SSL encryption and SASL authentication.
 4. [RMySQL](https://github.com/rstats-db/RMySQL) - RMySQL is a database interface and MySQL driver for R. Implements 'DBI' Interface to 'MySQL' and 'MariaDB' Databases.
+5. [sqldf](https://github.com/ggrothendieck/sqldf) - sqldf is an R package for runing SQL statements on R data frames, optimized for convenience.
