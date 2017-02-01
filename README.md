@@ -13,6 +13,9 @@ This is a list of most popular R packages for various task that could be done in
 6. [stringr](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html) - Stringr provides an opinionated interface to strings in R. It makes string processing simpler by removing uncommon options, and by vigorously enforcing consistency across functions.
 7. [validate](https://cran.r-project.org/web/packages/stringr/vignettes/stringr.html) - The validate package makes it super-easy to check data against domain knowledge. It works by allowing you to define data validation rules independent of the code or data set.
 
+### Machine Learning
+1. [MICE](https://github.com/stefvanbuuren/mice) - MICE (Multivariate Imputation via Chained Equations) is one of the commonly used package by R users. Creating multiple imputations as compared to a single imputation (such as mean) takes care of uncertainty in missing values.
+
 ### Data Visualization
 1. [ggplot2](http://ggplot2.org/) - Powerful, flexible and well-thought-out dataviz package following 'grammar of graphics' syntax to create static graphics, but be prepared for a steep learning curve.
 2. [plotly](https://plot.ly/r/) - Plotly's R graphing library makes interactive, publication-quality graphs online. Examples of how to make line plots, scatter plots, area charts, bar charts, error bars, box plots, histograms, heatmaps, subplots, multiple-axes, polar charts and bubble charts.
