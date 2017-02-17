@@ -18,7 +18,7 @@ This is a list of most popular R packages for various task that could be done in
 2. [rpart](https://cran.r-project.org/web/packages/rpart/) - Recursive partitioning for classification, regression and survival trees. An implementation of most of the functionality of the 1984 book by Breiman, Friedman, Olshen and Stone.
 3. [igraph](https://github.com/igraph/igraph) - Routines for simple graphs and network analysis. It can handle large graphs very well and provides functions for generating random and regular graphs, graph visualization, centrality methods and much more.
 4. [caret](https://github.com/topepo/caret/) - is a set of functions that attempt to streamline the process for creating predictive models.
-5. [tree](https://github.com/igraph/igraph) - Routines for simple graphs and network analysis. It can handle large graphs very well and provides functions for generating random and regular graphs, graph visualization, centrality methods and much more.
+5. [tree](https://cran.r-project.org/web/packages/tree/) - Classification and regression trees.
 
 ### Data Visualization
 1. [ggplot2](http://ggplot2.org/) - Powerful, flexible and well-thought-out dataviz package following 'grammar of graphics' syntax to create static graphics, but be prepared for a steep learning curve.
